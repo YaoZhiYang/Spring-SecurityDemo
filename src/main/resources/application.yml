@@ -1,0 +1,5 @@
+#更改默认的用户名密码\
+security:
+  user:
+    name: yyy
+    password: 1234
